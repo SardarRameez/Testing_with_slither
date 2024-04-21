@@ -1,4 +1,4 @@
-# testLimit is the number of test sequences to run; default is 50000
+# testLimit is the number of test sequences to run; default is 50000.
 testLimit: 10000
 # maximum time between generated txs; default is one week
 maxTimeDelay: 0
